@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Venova Reborn** in my spare time and in [Tucanto Hostpaderia](https://www.tucanto.com.br)
 
-- 🌱 I’m currently learning **pentesting** and **A.I assisted website development**
+- 🌱 I’m currently learning **A.I development** and **A.I assisted website development**
 
 - 👯 I’m looking to collaborate on **any F.O.S.S project**
 
-- 🤝 I’m looking for help with **Godot Engine 4**
+- 🤝 I’m looking for help with **Godot Engine v4**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CardoPixel?tab=repositories](https://github.com/CardoPixel?tab=repositories)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **cardo.pixelado@gmail.com**
 
-- ⚡ Fun fact **I'm a former child prodigy**
+- ⚡ Fun fact **I was a child prodigy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
